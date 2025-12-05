@@ -14,7 +14,7 @@ public class _167_ {
                 j--;
             }
         }
-        return new int[]{-1};
+        return new int[]{-1,-1};
     }
 }
     
