@@ -13,7 +13,7 @@ public class Solution {
                 count =0;
             }
         }
-        return count;
+        return max;
         
     }
 }
