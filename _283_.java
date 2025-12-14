@@ -11,6 +11,7 @@ public class _283_ {
         while(i < nums.length){
             nums[i] = 0;
             i++; 
+            
         }
        
     }
